@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Hi+i+am+Fahim....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;i+am+Fahim....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 <img src="https://static.vecteezy.com/system/resources/previews/026/564/515/original/programming-code-coding-or-hacker-sign-programming-code-icon-made-with-binary-code-in-wireframe-hands-digital-binary-data-and-digital-code-matrix-background-with-digits-1-0-illustration-vector.jpg" alt="">
