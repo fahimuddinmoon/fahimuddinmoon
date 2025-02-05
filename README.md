@@ -38,9 +38,9 @@
 </p>
 
 # My GitHub Stats
-<h2># Fahim Uddin1</h2>
+
 ![](https://komarev.com/ghpvc/?username=fahimuddinmoon&color=green)
-<h2># Fahim Uddin2</h2>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimmoons-projects&layout=compact)
-<h2># Fahim Uddin3</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahimuddinmoon)
